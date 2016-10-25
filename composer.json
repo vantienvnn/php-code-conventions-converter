@@ -1,0 +1,21 @@
+{
+	"name": "vantienvnn/php-code-conventions-converter",
+	"description": "Correct PHP code conventions",
+	"homepage": "https://www.linkedin.com/in/tienvv",
+	"license": "MIT",
+	"keywords": [
+		"php",
+		"php code conventions"
+	],
+	"authors": [
+		{
+			"name": "Tien Vo",
+			"email": "tienvv.it@gmail.com",
+			"homepage": "https://www.linkedin.com/in/tienvv"
+		}
+	],
+	"require": {
+		"escapestudios/symfony2-coding-standard": "^2.9"
+	},
+	"prefer-stable": true
+}
