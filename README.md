@@ -24,7 +24,11 @@ How to use:
 
 - Convert all files in a path
 ```php
+   // follow custom rule
    phpcbf --standard=phpcs.xml /path/to/you/project
+   
+   // follow PSR2
+   phpcbf --standard=PSR2 /path/to/you/project
 ```
 
 - Convert a file
